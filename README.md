@@ -4,25 +4,25 @@ The following files are the solutions for the homeworks for Ari Juels blockchain
 
 Homework 1:
 
-Merkle Trees
+Merkle Trees,
 
-Minting and Verifying a Coin
+Minting and Verifying a Coin,
 
 Finding Hashing Collisions
 
 Homework 2:
 
-Intializing a POW Blockchain
+Intializing a POW Blockchain,
 
-Intializing a POA Blockchain
+Intializing a POA Blockchain,
 
 Problems with Desynced networks
 
 Homework 3:
 
-Solodiity Basics
+Solodiity Basics,
 
-Hacking Contracts on chain based on deterministic inputs
+Hacking Contracts on chain based on deterministic inputs,
 
 Tumbler Analysis
 
